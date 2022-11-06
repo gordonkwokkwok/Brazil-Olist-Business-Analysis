@@ -41,5 +41,5 @@ To be continue
 ## Contributers
 - [Frankie Lam](https://www.linkedin.com/in/frankie-lam-609732248/)
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
-- [Janny](https://www.linkedin.com/in/janny-leungjingyi/)
+- [Janny Leung](https://www.linkedin.com/in/janny-leungjingyi/)
 - Natalie Lau
