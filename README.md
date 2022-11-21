@@ -31,12 +31,24 @@ Use "!pip install --" command to install the following libraries:
 
 ## Database Schema
 The scraped data will be cleaned, transformed, loaded and stored in MySQL Database:
-![1](https://user-images.githubusercontent.com/112631794/200159344-c0ffd689-1486-48a5-b060-1d513b77830c.png)
+<img width="800" src="https://user-images.githubusercontent.com/112631794/200159344-c0ffd689-1486-48a5-b060-1d513b77830c.png">
 
 
 ## Power BI Dashboard
-To be continue
+### P.1 Home
+<img width="800" alt="1_home" src="https://user-images.githubusercontent.com/112631794/203075509-ea97c94a-348f-4e82-8ae1-513e253b05bd.png">
 
+### P.2 Customer
+<img width="800" alt="2_customer" src="https://user-images.githubusercontent.com/112631794/203076162-31f66365-9d2b-4c50-8421-61cbdc16db4e.png">
+
+### P.3 Delivery
+<img width="800" alt="3_delivery" src="https://user-images.githubusercontent.com/112631794/203076464-dd0ce43d-e62f-477a-9cfc-9690ccaa9059.png">
+
+### P.4 Satisfactory
+<img width="800" alt="4_satisfactory" src="https://user-images.githubusercontent.com/112631794/203076510-36c2c945-e27a-4f5f-b60e-e3ae2b4bc2b2.png">
+
+### P.5 Forecast
+<img width="800" alt="5_forecast" src="https://user-images.githubusercontent.com/112631794/203076531-4ea68c92-5b68-45b9-8410-8e14c1708110.png">
 
 ## Contributers
 - [Frankie Lam](https://www.linkedin.com/in/frankie-lam-609732248/)
