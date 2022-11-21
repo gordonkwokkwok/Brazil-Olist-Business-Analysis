@@ -23,10 +23,11 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 ## Prerequisite
 Use "!pip install --" command to install the following libraries:
 ```
+!pip install os
 !pip install pandas
 !pip install sqlalchemy
 !pip install transformers
-!pip install pymysql
+!pip install -U deep-translator
 ```
 
 ## Database Schema
